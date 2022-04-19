@@ -1,0 +1,10 @@
+#date{
+	color: blue;
+	display: inline;
+	text-align: center;
+}
+#time{
+	color: green;
+	display: inline;
+	text-align: center;
+}
