@@ -21,7 +21,7 @@ public class FruityLoopsController {
 	     fruits.add(new Item("Goji Berries", 4.0));
 	     fruits.add(new Item("Guava", .75));
 	     
-	     model.addAttribute("fruitsFromList", fruits);
+	     model.addAttribute("fruits", fruits);
 	     
 	     return "index.jsp";
 	}
