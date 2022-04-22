@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+*{
+	margin: 0px auto;
+}
+.container{
+	width: 500px;
+	border: 2px solid black;
+	margin-top: 50px;
+}
+.container2{
+	width: 500px;
+	margin-top: 50px;
+}
+h1{
+	display: flex;
+	justify-content: center;
+	font-size: 50px;
+}
+.textform, #number, p{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#send {
+	text-decoration: none;
+	margin-left: 217px;
+	margin-bottom: 15px;
+}
+#cityName, #personName, #endeavor, #livingThing, #somethingNice{
+	width: 250px;
+}
+#omikujiblock{
+	width: 300px;
+	background-color: skyblue;
+}
+span{
+	font-size: 25px;
+}
+a {
+	margin-left: 217px;
+}
+
