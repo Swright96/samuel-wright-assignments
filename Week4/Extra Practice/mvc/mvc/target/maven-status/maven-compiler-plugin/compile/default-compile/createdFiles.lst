@@ -1,5 +1,0 @@
-com\codingdojo\mvc\controllers\BooksApi.class
-com\codingdojo\mvc\models\Book.class
-com\codingdojo\mvc\MvcApplication.class
-com\codingdojo\mvc\repositories\BookRepository.class
-com\codingdojo\mvc\services\BookService.class
